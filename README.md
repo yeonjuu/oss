@@ -62,7 +62,7 @@
 </details>
 
 * Survey DataSet , 2020 서울서베이 시민조사 데이터  
-![ex_screenshot](./img/screenshot.png)
+![](./clustering/survey_sample.jpg)
 
 ---
 
